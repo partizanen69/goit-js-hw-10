@@ -1,0 +1,18 @@
+body {
+  padding: 15px 15px 0 15px;
+}
+
+h2 {
+  margin: 0;
+}
+
+.cat-info {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+/* should go last  */
+.hidden {
+  display: none;
+}
