@@ -3,7 +3,6 @@ import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 setTimeout(() => {
   console.log('window.document  ', window.document);
-  Notify.failure('Oops, there is no country with that name');
 }, 2000);
 
 // import { fetchCountries } from './fetchCountries';
